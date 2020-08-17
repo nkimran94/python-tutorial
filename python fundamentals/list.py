@@ -1,12 +1,8 @@
-grocery_list = ["rice", "potato", "tomato","water"]
+grocery_list = ["rice", "potato", "tomato","water","noodles",]
 l1 = list()
 print(grocery_list)
 grocery_list.append("brocoli")
 print(grocery_list)
-print(l1)
-l1.append(2)
-print(l1)
-l1.append("computer")
 print(l1)
 
 print(grocery_list[-1])
